@@ -1,2 +1,2 @@
 # ImageProcessing
-Using python and REMBG library I did a little project for the Image processing course I took in university
+ This project utilizes the REMBG library to achieve highly accurate background removal from images. It goes beyond that by offering users the option to effortlessly transform images into captivating grayscale compositions or preserve their vibrant colors. With a user-friendly interface, this project provides an intuitive and seamless experience for users to enhance their images. 
